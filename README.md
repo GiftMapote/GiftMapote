@@ -29,10 +29,16 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
-## 🌱 Currently Learning 
+## 🏅 Certifications
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+<p align="left">
+  <a href="https://credentials.databricks.com/18b46c51-8c16-4700-ac1d-366098d02bef#acc.mIPNbKvp">
+    <img src="https://images.credential.net/embed/f6379d5f-ab51-4ae6-b0a5-89b456d8dc79.png" width="200"/>
+  </a>
+</p>
+
+**Databricks Certified Data Engineer Associate**
+
 
 ## 🛠️ Technical Skillset
 
