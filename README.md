@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Gift 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -29,11 +29,12 @@ Outside of work, you’ll usually find me outdoors or playing pool, where I enjo
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
+
 ## 🏅 Certifications
 
 | Certification | Issuer |
 |---------------|--------|
-| [![Databricks Data Engineer Associate](https://images.credential.net/embed/f6379d5f-ab51-4ae6-b0a5-89b456d8dc79.png)](https://credentials.databricks.com/18b46c51-8c16-4700-ac1d-366098d02bef#acc.mIPNbKvp) | Databricks |
+| [![Databricks Certified Data Engineer Associate](https://images.credential.net/embed/f6379d5f-ab51-4ae6-b0a5-89b456d8dc79.png)](https://credentials.databricks.com/18b46c51-8c16-4700-ac1d-366098d02bef#acc.mIPNbKvp) | Databricks |
 
 
 **Databricks Certified Data Engineer Associate**
