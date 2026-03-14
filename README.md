@@ -32,12 +32,18 @@ Outside of work, you’ll usually find me outdoors or playing pool, where I enjo
 
 ## 🏅 Certifications
 
-| Certification | Issuer |
-|---------------|--------|
-| [![Databricks Certified Data Engineer Associate](https://images.credential.net/embed/f6379d5f-ab51-4ae6-b0a5-89b456d8dc79.png)](https://credentials.databricks.com/18b46c51-8c16-4700-ac1d-366098d02bef#acc.mIPNbKvp) | Databricks |
+## 🏅 Certifications
 
-
-**Databricks Certified Data Engineer Associate**
+<table>
+<tr>
+<td>
+<a href="https://credentials.databricks.com/18b46c51-8c16-4700-ac1d-366098d02bef#acc.mIPNbKvp">
+<img src="images/Databrick.png" width="200">
+</a>
+</td>
+<td>Databricks Data Engineer Associate</td>
+</tr>
+</table
 
 
 ## 🛠️ Technical Skillset
