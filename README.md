@@ -9,16 +9,15 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I’m a Data Engineer with 3+ years of experience in the banking industry, passionate about building reliable and scalable data systems. I enjoy designing idempotent data pipelines that transform raw data into meaningful insights that help answer real business questions.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My work focuses on building batch and streaming pipelines using technologies such as Apache Spark, PySpark, Apache Kafka, Scala, SQL, and Hadoop. I also spend time doing system analysis, ensuring that data platforms and pipelines are designed to be efficient, reliable, and able to handle large-scale data workloads. I have experience working in cloud environments including AWS and Databricks, where I build and optimize modern data solutions.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+Outside of work, you’ll usually find me outdoors or playing pool, where I enjoy applying the same analytical thinking and strategy that I use when working with data.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
@@ -31,11 +30,10 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 
 ## 🏅 Certifications
 
-<p align="left">
-  <a href="https://credentials.databricks.com/18b46c51-8c16-4700-ac1d-366098d02bef#acc.mIPNbKvp">
-    <img src="https://images.credential.net/embed/f6379d5f-ab51-4ae6-b0a5-89b456d8dc79.png" width="200"/>
-  </a>
-</p>
+| Certification | Issuer |
+|---------------|--------|
+| [![Databricks Data Engineer Associate](https://images.credential.net/embed/f6379d5f-ab51-4ae6-b0a5-89b456d8dc79.png)](https://credentials.databricks.com/18b46c51-8c16-4700-ac1d-366098d02bef#acc.mIPNbKvp) | Databricks |
+
 
 **Databricks Certified Data Engineer Associate**
 
