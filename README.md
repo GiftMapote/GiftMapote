@@ -46,9 +46,28 @@ Outside of work, you’ll usually find me outdoors or playing pool, where I enjo
       
 ## 🔭 Projects
 
-- **FraudSentil:** Databricjs Real-Time Transaction Fraud Detection 
-- **Databricks JobMarket Lakehouse:** Transforms raw job posting from an API into curated datasets that power dashboard and ML
-- **Databricks Price Movers:** Real-time Crypto Price tracker in South African Time
+### FraudSentil
+Databricks Real-Time Transaction Fraud Detection 
+### Databricks JobMarket Lakehouse
+Transforms raw job posting from an API into curated datasets that power dashboard and ML
+### Databricks Price Movers
+Real-time Crypto Price tracker in South African Time
+### Feature Store for Mule Account Detection
+Developed a feature store pipeline used for detecting mule account using engineered behavioural features.
+**Technologies:**
+- Apache Spark
+- Scala
+- SQL
+- Data Engineering pipelines
+### Clickstream Pipeline on-prem to AWS migration
+Migrated a clickstream processing pipeline from on-prem infrastructure to AWS to improve performance and reduce running costs.
+**Technologies:**
+- Apache Spark
+- AWS
+- EMR
+- S3
+
+### ....More projects on my Resume
 
 ## 🏅 Certifications
 
