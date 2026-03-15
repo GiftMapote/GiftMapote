@@ -44,30 +44,44 @@ Outside of work, you’ll usually find me outdoors or playing pool, where I enjo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="50" title="Confluence"/>
 </p>
       
-## 🔭 Projects
+## 🔭Featured Projects
 
-### FraudSentil
-Databricks Real-Time Transaction Fraud Detection 
-### Databricks JobMarket Lakehouse
-Transforms raw job posting from an API into curated datasets that power dashboard and ML
-### Databricks Price Movers
-Real-time Crypto Price tracker in South African Time
-### Feature Store for Mule Account Detection
-Developed a feature store pipeline used for detecting mule account using engineered behavioural features.
-**Technologies:**
-- Apache Spark
-- Scala
-- SQL
-- Data Engineering pipelines
-### Clickstream Pipeline on-prem to AWS migration
-Migrated a clickstream processing pipeline from on-prem infrastructure to AWS to improve performance and reduce running costs.
-**Technologies:**
-- Apache Spark
-- AWS
-- EMR
-- S3
+### 🧠 Mule Fraud Detection Feature Store
+• Built and maintained feature store pipelines to track behavioural patterns and identify accounts potentially used as mule accounts.  
+• Designed transaction-level and customer-level aggregated datasets structured as fact and dimension-style tables to support downstream fraud analytics.  
+• Delivered production-ready features consumed by DataRobot fraud model scoring pipelines operating on large-scale transactional data.  
+• Project recognised with an **Innovation Award** for impact and delivery within the fraud detection domain.
 
-### ....More projects on my Resume
+**Tech:** Apache Spark • Scala • SQL • Feature Engineering 
+
+### 🔍 Cloudera Big Data Platform Dataset Monitor
+• Developed an hourly monitoring job to detect missing data across **20+ critical datasets** supporting downstream fraud and analytics pipelines.  
+• Enabled faster data backfills and significantly reduced downstream job failures by identifying gaps early.  
+• Improved operational reliability and reduced incident resolution time through proactive alerting and clearer diagnostics.
+
+**Tech:** Apache Spark • Scala • HDFS • Data Monitoring
+
+### ⚡ Clickstream Pipeline Migration (Cloudera → AWS)
+• Migrated a high-volume clickstream pipeline from **on-prem Cloudera infrastructure to AWS** using Scala and Apache Spark.  
+• Reduced pipeline runtime from **~8 hours to under 3 hours** while lowering operational costs and improving stability.  
+• Improved scalability and reliability for downstream analytics and reporting systems.
+
+**Tech:** Apache Spark • Scala • AWS • Distributed Data Processing
+
+### 📡 Real-Time Product Take-Off Tracker
+• Built a real-time streaming solution using **Apache Kafka and Java** to track incomplete product take-up applications.  
+• Enabled call centre teams to proactively follow up with clients, improving application completion rates and customer experience.  
+• Supported end-to-end delivery including requirements analysis, development, production rollout, and ongoing support.
+
+**Tech:** Apache Kafka • Java • Streaming Pipelines
+
+### 🚨 Fraud Sentinel Real-Time Medallion Pipeline
+• Engineered a real-time fraud detection pipeline on **Databricks using Spark Structured Streaming and Medallion Architecture** to process financial transactions.  
+• Developed an automated observability system and **Databricks Workflows** to monitor pipeline health and trigger email alerts during downtime.  
+• Implemented **Delta Lake optimizations (OPTIMIZE, VACUUM)** to improve query performance and reduce storage costs.
+
+**Tech:** Databricks • Spark Structured Streaming • Delta Lake • Medallion Architecture
+
 
 ## 🏅 Certifications
 
@@ -90,6 +104,7 @@ Migrated a clickstream processing pipeline from on-prem infrastructure to AWS to
 <td>Databricks Generative AI Fundamentals</td>
 </tr>
 </table
+
 
 
 
