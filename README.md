@@ -21,7 +21,7 @@ My work focuses on building batch and streaming pipelines using technologies suc
 Outside of work, you’ll usually find me outdoors or playing pool, where I enjoy applying the same analytical thinking and strategy that I use when working with data.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+<!--### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)-->
       
 ## 🔭 Projects
 
