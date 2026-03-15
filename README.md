@@ -12,7 +12,7 @@ Data Engineer with experience building scalable data pipelines and data platform
 <p align="center">
   <a href="www.linkedin.com/in/gift-mapote-6193801b0"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="giftmappte@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
-   <a href="https://github.com/GiftMapote/GiftMapote/raw/main/Gift_Mapote_Data_Engineer_CV.pdf">
+   <a href="https://github.com/GiftMapote/GiftMapote/raw/main/Images/Gift_Mapote_Resume_Final.pdf">
     <img src="https://img.shields.io/badge/Download-CV-orange?style=for-the-badge&logo=adobeacrobatreader">
   </a>
 </p>
