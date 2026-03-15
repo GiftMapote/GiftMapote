@@ -9,8 +9,8 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="www.linkedin.com/in/gift-mapote-6193801b0"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="giftmappte@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
@@ -29,9 +29,6 @@ Outside of work, you’ll usually find me outdoors or playing pool, where I enjo
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
-
-## 🏅 Certifications
-
 ## 🏅 Certifications
 
 <table>
@@ -43,7 +40,18 @@ Outside of work, you’ll usually find me outdoors or playing pool, where I enjo
 </td>
 <td>Databricks Data Engineer Associate</td>
 </tr>
+
+  <tr>
+<td>
+<a href="https://credentials.databricks.com/18b46c51-8c16-4700-ac1d-366098d02bef#acc.mIPNbKvp">
+<img src="images/Databrick.png" width="200">
+</a>
+</td>
+<td>Databricks Data Engineer Associate</td>
+</tr>
 </table
+
+
 
 
 ## 🛠️ Technical Skillset
