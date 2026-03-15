@@ -1,4 +1,5 @@
 ## Hi there, I'm Gift 👋
+Data Engineer with experience building scalable data pipelines and data platforms using Spark, Scala, Java, PySpark, and cloud technologies.
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -11,6 +12,9 @@
 <p align="center">
   <a href="www.linkedin.com/in/gift-mapote-6193801b0"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="giftmappte@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+   <a href="https://github.com/GiftMapote/GiftMapote/raw/main/Gift_Mapote_Data_Engineer_CV.pdf">
+    <img src="https://img.shields.io/badge/Download-CV-orange?style=for-the-badge&logo=adobeacrobatreader">
+  </a>
 </p>
 
 ## 🚀 About Me 
@@ -22,6 +26,23 @@ Outside of work, you’ll usually find me outdoors or playing pool, where I enjo
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 <!--### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)-->
+
+## 🛠️ Technical Skillset
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="50" title="Scala"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" title="Kafka"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="50" title="Hadoop"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="SQL"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="50" title="Databricks"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" title="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" title="Azure"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" title="Jira"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="50" title="Confluence"/>
+</p>
       
 ## 🔭 Projects
 
@@ -52,23 +73,5 @@ Outside of work, you’ll usually find me outdoors or playing pool, where I enjo
 </table
 
 
-
-<!--## 🛠️ Technical Skillset-->
-## 🛠️ Technical Skillset
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="50" title="Scala"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" title="Kafka"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="50" title="Hadoop"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="SQL"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="50" title="Databricks"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" title="AWS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" title="Azure"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" title="Jira"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="50" title="Confluence"/>
-</p>
 
 
